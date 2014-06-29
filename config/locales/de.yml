@@ -1,0 +1,4 @@
+de:
+  time:
+    formats:
+      clock: "%d.%m.%Y, %H.%M Uhr"
